@@ -6,7 +6,7 @@ SCD, a genetic disorder, needs early diagnosis; traditional methods slow/variabl
 Sickle cell disease (SCD) presents a major healthcare challenge due to its severe health implications and the need for early, accurate diagnosis. Conventional diagnostic techniques, such as manual microscopic examination of blood smears and genetic testing, are often slow, labor-intensive, costly, and prone to human error or observer variation. These limitations hinder timely diagnosis and effective treatment, especially in resource-limited settings. Therefore, there is a pressing need for an automated, reliable, and interpretable diagnostic approach that can improve accuracy, reduce time and cost, and support clinical decision-making in the detection of sickle cell disease.
 <img width="786" height="545" alt="image" src="https://github.com/user-attachments/assets/b9af4afd-65dc-4f67-bb93-1ba84f06417d" />
 
-**#Dataset**
+**#Dataset Link**
 
 https://huggingface.co/datasets/Sanika2903/sickle-cell-classification-dataset
 
