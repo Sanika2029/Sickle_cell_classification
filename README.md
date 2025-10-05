@@ -2,8 +2,9 @@
 SCD, a genetic disorder, needs early diagnosis; traditional methods slow/variable. AI system uses transfer learning (ShuffleNetV2, MobileNetV2, InceptionNet, ResNet50) on blood smears for rapid detection. ResNet50: 87.28% accuracy, reduces errors. LIME/Grad-CAM confirm key feature focus, boosting clinical potential.
 
 **#Problem Statments**
+
 Sickle cell disease (SCD) presents a major healthcare challenge due to its severe health implications and the need for early, accurate diagnosis. Conventional diagnostic techniques, such as manual microscopic examination of blood smears and genetic testing, are often slow, labor-intensive, costly, and prone to human error or observer variation. These limitations hinder timely diagnosis and effective treatment, especially in resource-limited settings. Therefore, there is a pressing need for an automated, reliable, and interpretable diagnostic approach that can improve accuracy, reduce time and cost, and support clinical decision-making in the detection of sickle cell disease.
-<img width="9214" height="70" alt="image" src="https://github.com/user-attachments/assets/20afedc4-810c-46cd-a807-2ec33ff21d73" />
+<img width="786" height="545" alt="image" src="https://github.com/user-attachments/assets/b9af4afd-65dc-4f67-bb93-1ba84f06417d" />
 
 **#Dataset**
 https://huggingface.co/datasets/Sanika2903/sickle-cell-classification-dataset
